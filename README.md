@@ -95,7 +95,7 @@ Collaborators:
 
 Shriya Jadhav - https://github.com/shya46
 
-Arnav Jain -
+Arnav Jain - https://github.com/ARJ1510
 
 Contact :
 
