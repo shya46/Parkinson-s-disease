@@ -99,6 +99,6 @@ Arnav Jain - https://github.com/ARJ1510
 
 Contact :
 
-For questions or collaboration, reach out to shriyajadhav46@gmail.com or open an issue in the GitHub repository.
+For questions or collaboration, reach out to shriyajadhav46@gmail.com, arnav151003@gmail.com or open an issue in the GitHub repository.
 
 Early detection of Parkinson’s can help improve treatment outcomes. Let’s make AI-powered healthcare accessible to everyone!
